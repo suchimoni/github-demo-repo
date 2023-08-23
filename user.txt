@@ -1,4 +1,1 @@
 This is github demo text file.
-
-
-This is second line of code.
